@@ -1,0 +1,14 @@
+{
+  "name": "kivibot-plugin-wordart-generation",
+  "version": "1.0.2",
+  "description": "一个可以把文字转换成艺术字的kivibot机器人插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kivibot-plugin"
+  ],
+  "author": "Penana",
+  "license": "ISC"
+}
